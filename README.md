@@ -48,7 +48,7 @@ To run the script, provide a list of YouTube video URLs or playlist URLs:
 python
 Copy code
 if __name__ == "__main__":
-    urls = ["https://www.youtube.com/watch?v=DgqLch_nBQ8&ab_channel=IITMadras-BSinElectronicSystems"]
+    urls = ["yourlink1","yourlink2"]
     main(urls)
 Replace the URL in the urls list with your desired YouTube video or playlist URL.
 
