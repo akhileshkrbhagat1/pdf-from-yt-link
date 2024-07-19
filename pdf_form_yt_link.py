@@ -230,5 +230,5 @@ def main(urls):
         
 
 if __name__ == "__main__":
-    urls = ["https://www.youtube.com/watch?v=DgqLch_nBQ8&ab_channel=IITMadras-BSinElectronicSystems"]
+    urls = ["yt_link1","yt_link2]
     main(urls)
